@@ -1,4 +1,3 @@
-
 # 🎂 A Birthday to Remember
 
 **A heartfelt interactive birthday experience built with HTML, CSS, and JavaScript — created to celebrate her special day through thoughtful design, gentle animations, and meaningful details.**
